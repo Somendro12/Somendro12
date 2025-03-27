@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Somendro Ningthoujam
 - 👀 I’m interested in Analog Layout Design
 - 🌱 I’m currently working in Analog Layout Domain.
-- 💞️ I’m looking to collaborate on analog layout project such as BGR, Opam, LDO, Comparator, ADC and DAC etc
+- 💞️ I’m looking to collaborate on analog layout project such as BGR, Opamp, LDO, Comparator, ADC and DAC etc
 - 📫 you can reach me via mail nssmangang@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
