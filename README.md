@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on analog layout project such as BGR, Opamp, LDO, Comparator, ADC and DAC etc
 - 📫 you can reach me via mail nssmangang@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Layout is an art
 
 <!---
 Somendro12/Somendro12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
